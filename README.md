@@ -3,3 +3,4 @@ Repo to store all my studies implementations and summaries. Mainly focused but n
 
 ## Table of content
  - [Sampling Methods](/SamplingMethods)
+     - [Standard Distributions](/SamplingMethods/01-StandardDistributions.ipynb)
